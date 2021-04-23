@@ -1,4 +1,4 @@
-![alt text](https://github.com/Ashish9031/wordguessgame//[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/images/logo.png?raw=true)
 
 # wordguessgame
 This is a word guessing game developed in Kotlin and Android Studio. It is a 2 player game.
