@@ -43,3 +43,7 @@ Minimum requirements of Android Studio:
 ![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158734.png?raw=true)
 ![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158739.png?raw=true)
 ![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158743.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158712.png" width="350" alt="accessibility text">
+</p>
