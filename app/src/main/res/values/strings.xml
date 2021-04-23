@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word Guessing</string>
+    <string name="skip">Skip</string>
+    <string name="play_again">Play Again</string>
+    <string name="your_score">Your Score</string>
+    <string name="title_text">guess the word!</string>
+    <string name="play_button">Play</string>
+    <string name="lets_play">Lets play</string>
+    <string name="correct">Correct</string>
+    <string name="game_over">Game Over</string>
+    <string name="word_is">The word is…</string>
+</resources>
