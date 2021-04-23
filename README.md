@@ -37,13 +37,11 @@ Minimum requirements of Android Studio:
 5. The final 'Score' view displays the final score of the player.
 
 # Screenshots
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158712.png?raw=true)
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158721.png?raw=true)
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158727.png?raw=true)
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158734.png?raw=true)
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158739.png?raw=true)
-![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158743.png?raw=true)
-
 <p align="center">
   <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158712.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158721.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158727.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158734.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158739.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158743.png" width="350" alt="accessibility text">
 </p>
