@@ -37,4 +37,9 @@ Minimum requirements of Android Studio:
 5. The final 'Score' view displays the final score of the player.
 
 # Screenshots
-https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158712.png
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158712.png?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158721.png?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158727.png?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158734.png?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158739.png?raw=true)
+![alt text](https://github.com/Ashish9031/wordguessgame/blob/main/images/Screenshot_1619158743.png?raw=true)
